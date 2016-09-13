@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleTrainingUsePlatformStylesAndThemes</string>
+    <string name="main_activity_start_transparent">start an activity having a transparent background</string>
+    <string name="main_activity_start_dialog">start an activity like a dialog box</string>
+</resources>
